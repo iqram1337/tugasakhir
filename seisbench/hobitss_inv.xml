@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FDSNStationXML xmlns="http://www.fdsn.org/xml/station/1" schemaVersion="1.2">
+  <Source>IRIS-DMC</Source>
+  <Sender>IRIS-DMC</Sender>
+  <Module>IRIS WEB SERVICE: fdsnws-station | version: 1.1.52</Module>
+  <ModuleURI>http://service.iris.edu/fdsnws/station/1/query?starttime=2014-10-25T14%3A00%3A00.000000&amp;endtime=2014-10-25T18%3A00%3A00.000000&amp;network=YH&amp;station=%2A&amp;location=%2A&amp;channel=EH%3F%2CHH%3F%2CHD%3F</ModuleURI>
+  <Created>2023-07-12T13:44:33.711400Z</Created>
+  <Network code="YH" startDate="2014-01-01T00:00:00.000000Z" endDate="2015-12-31T23:59:59.999900Z" restrictedStatus="open">
+    <Description>Hikurangi Ocean Bottom Investigation of Tremor and Slow Slip (HOBITSS)</Description>
+    <Identifier type="DOI">10.7914/SN/YH_2014
+   </Identifier>
+    <TotalNumberStations>15</TotalNumberStations>
+    <SelectedNumberStations>15</SelectedNumberStations>
+    <Station code="EBS1" startDate="2014-05-13T00:00:00.000000Z" endDate="2015-06-20T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-38.745899</Latitude>
+      <Longitude unit="DEGREES">178.678894</Longitude>
+      <Elevation>-995.0</Elevation>
+      <Site>
+        <Name>EOBS 1</Name>
+      </Site>
+      <CreationDate>2014-05-13T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="EBS2" startDate="2014-05-11T00:00:00.000000Z" endDate="2015-06-20T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-38.7771</Latitude>
+      <Longitude unit="DEGREES">178.583496</Longitude>
+      <Elevation>-930.0</Elevation>
+      <Site>
+        <Name>EOBS 2</Name>
+      </Site>
+      <CreationDate>2014-05-11T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="EBS3" startDate="2014-05-11T00:00:00.000000Z" endDate="2015-06-21T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-38.694599</Latitude>
+      <Longitude unit="DEGREES">178.650604</Longitude>
+      <Elevation>-1023.0</Elevation>
+      <Site>
+        <Name>EOBS 3</Name>
+      </Site>
+      <CreationDate>2014-05-11T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="EBS4" startDate="2014-05-13T00:00:00.000000Z" endDate="2015-06-21T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-38.688801</Latitude>
+      <Longitude unit="DEGREES">178.819901</Longitude>
+      <Elevation>-1712.0</Elevation>
+      <Site>
+        <Name>EOBS 4</Name>
+      </Site>
+      <CreationDate>2014-05-13T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="EBS5" startDate="2014-05-11T00:00:00.000000Z" endDate="2015-06-25T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-38.9944</Latitude>
+      <Longitude unit="DEGREES">178.325699</Longitude>
+      <Elevation>-1348.0</Elevation>
+      <Site>
+        <Name>EOBS 5</Name>
+      </Site>
+      <CreationDate>2014-05-11T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>3</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="LOB10" startDate="2014-05-11T00:00:00.000000Z" endDate="2015-06-22T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-39.133301</Latitude>
+      <Longitude unit="DEGREES">178.313202</Longitude>
+      <Elevation>-1444.0</Elevation>
+      <Site>
+        <Name>LDEO OBS</Name>
+      </Site>
+      <CreationDate>2014-05-11T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>6</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="LOBS1" startDate="2014-05-14T00:00:00.000000Z" endDate="2015-06-22T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-38.592098</Latitude>
+      <Longitude unit="DEGREES">178.818695</Longitude>
+      <Elevation>-993.6</Elevation>
+      <Site>
+        <Name>LDEO OBS</Name>
+      </Site>
+      <CreationDate>2014-05-14T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>6</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="LOBS2" startDate="2014-05-15T00:00:00.000000Z" endDate="2015-06-22T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-38.620998</Latitude>
+      <Longitude unit="DEGREES">179.046097</Longitude>
+      <Elevation>-3562.5</Elevation>
+      <Site>
+        <Name>LDEO OBS</Name>
+      </Site>
+      <CreationDate>2014-05-15T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>4</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="LOBS3" startDate="2014-05-15T00:00:00.000000Z" endDate="2015-06-23T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-38.792198</Latitude>
+      <Longitude unit="DEGREES">179.147293</Longitude>
+      <Elevation>-3540.3</Elevation>
+      <Site>
+        <Name>LDEO OBS</Name>
+      </Site>
+      <CreationDate>2014-05-15T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>4</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="LOBS4" startDate="2014-05-15T00:00:00.000000Z" endDate="2015-06-22T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-39.120098</Latitude>
+      <Longitude unit="DEGREES">178.981506</Longitude>
+      <Elevation>-3440.5</Elevation>
+      <Site>
+        <Name>LDEO OBS</Name>
+      </Site>
+      <CreationDate>2014-05-15T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>6</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="LOBS5" startDate="2014-05-15T00:00:00.000000Z" endDate="2015-06-23T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-39.119301</Latitude>
+      <Longitude unit="DEGREES">178.698395</Longitude>
+      <Elevation>-2361.0</Elevation>
+      <Site>
+        <Name>LDEO OBS</Name>
+      </Site>
+      <CreationDate>2014-05-15T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>6</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="LOBS6" startDate="2014-05-14T00:00:00.000000Z" endDate="2015-06-26T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-38.977798</Latitude>
+      <Longitude unit="DEGREES">178.796005</Longitude>
+      <Elevation>-1873.5</Elevation>
+      <Site>
+        <Name>LDEO OBS</Name>
+      </Site>
+      <CreationDate>2014-05-14T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>6</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="LOBS7" startDate="2014-05-15T00:00:00.000000Z" endDate="2015-06-25T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-38.711498</Latitude>
+      <Longitude unit="DEGREES">178.5681</Longitude>
+      <Elevation>-784.1</Elevation>
+      <Site>
+        <Name>LDEO OBS</Name>
+      </Site>
+      <CreationDate>2014-05-15T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>4</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="LOBS8" startDate="2014-05-13T00:00:00.000000Z" endDate="2015-06-26T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-38.843201</Latitude>
+      <Longitude unit="DEGREES">178.459396</Longitude>
+      <Elevation>-651.3</Elevation>
+      <Site>
+        <Name>LDEO OBS</Name>
+      </Site>
+      <CreationDate>2014-05-13T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>6</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+    <Station code="LOBS9" startDate="2014-05-11T00:00:00.000000Z" endDate="2015-06-23T23:59:59.000000Z" restrictedStatus="open">
+      <Latitude unit="DEGREES">-39.071602</Latitude>
+      <Longitude unit="DEGREES">178.521393</Longitude>
+      <Elevation>-1457.4</Elevation>
+      <Site>
+        <Name>LDEO OBS</Name>
+      </Site>
+      <CreationDate>2014-05-11T00:00:00.000000Z</CreationDate>
+      <TotalNumberChannels>6</TotalNumberChannels>
+      <SelectedNumberChannels>0</SelectedNumberChannels>
+    </Station>
+  </Network>
+</FDSNStationXML>
