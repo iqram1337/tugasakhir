@@ -1,0 +1,1 @@
+python phasenet/train.py  --model_dir=model/190703-214543/ --train_dir=dataset/waveform_train --train_list=dataset/waveform.csv --epochs=10 --batch_size=3
